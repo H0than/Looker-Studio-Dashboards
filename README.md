@@ -25,3 +25,12 @@ Leveraged Looker Studio's visualization tools to create visually appealing chart
 Selected appropriate visualizations for each type of data to enhance user understanding.
 
 This portfolio entry showcases the successful execution of the Looker Studio dashboard project, highlighting a comprehensive approach to data visualization, interactivity, and insightful analysis for effective marketing campaign management.
+
+# FWL Online Sales Report
+
+## Sales Revenue Insights
+
+Broke down sales revenue from online product sales. Explored the data to showcase sales trends per month.
+
+## Customer Demographics
+Delved deeply into the customer base, spotlighting the customer count categorized by their respective states.
