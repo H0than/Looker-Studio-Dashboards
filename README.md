@@ -2,7 +2,7 @@
 
 In this portfolio, I've assembled two dashboard projects I've conducted using Looker Studio for Data Visualization.
 
-## Marketing Campaign Report 
+# Marketing Campaign Report 
 
 Successfully leveraged Looker Studio to create an interactive dashboard for the comprehensive visualization and analysis of marketing campaign data.
 
