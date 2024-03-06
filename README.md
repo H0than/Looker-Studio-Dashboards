@@ -6,10 +6,10 @@ Successfully leveraged Looker Studio to create an interactive dashboard for the 
 
 ## Dashboard Components
 Designed a comprehensive dashboard featuring key components, including:
-Overview: Total metrics within the selected date range.
-Campaign Type Analysis: Employed charts to showcase the performance of prospecting and retargeting campaigns.
-Creative Performance: Visualized metrics for various ad creatives.
-Geographic Impact: Represented regional performance.
+1- Overview: Total metrics within the selected date range.
+2- Campaign Type Analysis: Employed charts to showcase the performance of prospecting and retargeting campaigns.
+3- Creative Performance: Visualized metrics for various ad creatives.
+4- Geographic Impact: Represented regional performance.
 
 ## Metrics Calculations
 Calculated and displayed metrics such as CTR, CPA, CPC, and ROAS directly within the dashboard.
