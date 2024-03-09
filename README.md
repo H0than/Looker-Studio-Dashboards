@@ -3,6 +3,7 @@ In this portfolio, I've assembled two dashboard projects I've conducted using Lo
 
 # Marketing Campaign Report 
 Successfully leveraged Looker Studio to create an interactive dashboard for the comprehensive visualization and analysis of marketing campaign data.
+https://lookerstudio.google.com/s/gfEPxkqWshM
 
 ## Dashboard Components
 Designed a comprehensive dashboard featuring key components, including:
